@@ -12,6 +12,14 @@ Concluido
 
 Site responsivo de portfolio usando html + css
 
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
 ## Imagem de capa
 
 Adicione a imagem de capa com o tema do seu projeto:
