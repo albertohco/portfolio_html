@@ -1,7 +1,13 @@
-## portfolio_html
-Meu primeiro projeto html + css
+# meu primeiro readme.md
 
-*status do projeto*
+**teste do readme.md**
+
+*Projeto html + css*
+
+**status do projeto**
+
 Concluido
-*descrição do projeto*
+
+**descrição do projeto**
+
 Site responsivo de portfolio usando html + css
