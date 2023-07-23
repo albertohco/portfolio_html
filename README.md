@@ -4,11 +4,11 @@
 
 *Projeto html + css*
 
-**status do projeto**
+## status do projeto
 
 Concluido
 
-**descrição do projeto**
+## descrição do projeto
 
 Site responsivo de portfolio usando html + css
 
