@@ -24,4 +24,4 @@ Site responsivo de portfolio usando html + css
 
 Adicione a imagem de capa com o tema do seu projeto:
 
-![Thumbnail GitHub](https://github.com/albertohco/portfolio_html/blob/main/Front-end-Projeto%20html%20%2B%20css.png)
+![Thumbnail GitHub](https://github.com/albertohco/portfolio_html/blob/3332e0abb191046910b91df3f23334e567d77755/capareadme.png)
