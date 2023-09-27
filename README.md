@@ -2,7 +2,7 @@
 
 **teste do readme.md**
 
-*Projeto html + css*
+_Projeto html + css_
 
 ## status do projeto
 
@@ -14,14 +14,14 @@ Site responsivo de portfolio usando html + css
 
 ## Ferramentas utilizadas:
 
-* HTML
+- HTML
 
-* CSS
+- CSS
 
-* Flex-box
+- Flex-box
 
 ## Imagem de capa
 
 Adicione a imagem de capa com o tema do seu projeto:
 
-![Imagem de Capa no GitHub](/Front-end-Projeto%20html%20+%20css.png)
+![Thumbnail GitHub](https://github.com/albertohco/portfolio_html/blob/3332e0abb191046910b91df3f23334e567d77755/capareadme.png)
